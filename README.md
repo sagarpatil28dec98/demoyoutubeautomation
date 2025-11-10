@@ -1,2 +1,2 @@
-# YouTube Faceless Video Production
-Run GitHub Action to scaffold new video packs.
+# YouTube Faceless Video Production Workflow
+This repository organizes your complete faceless YouTube video creation process.
